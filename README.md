@@ -1,29 +1,41 @@
 # SENAI Cyber Python
 
-Repositório dedicado aos estudos, exercícios e projetos desenvolvidos durante o curso de **Python para Cybersecurity** do SENAI.
-Aqui você encontrará exemplos práticos, anotações, scripts e desafios relacionados à segurança da informação, automação de tarefas, análise de vulnerabilidades e boas práticas de programação segura com Python.
+## 📋 Descrição
+
+Este repositório contém estudos, exercícios e projetos desenvolvidos durante o curso de **Python para Cybersecurity** no SENAI. O conteúdo é voltado para automação de tarefas de segurança, análise de vulnerabilidades, criação de scripts de segurança e fundamentos essenciais da linguagem Python aplicados à área de cibersegurança.
+
+## 🎯 Objetivos do Curso
+
+- Aprender Python com foco em cybersecurity
+- Desenvolver scripts para automação de segurança
+- Analisar vulnerabilidades usando Python
+- Criar ferramentas personalizadas para testes de penetração
+- Aplicar conceitos de programação na área de segurança da informação
 
 ## 📚 Conteúdo
 
-- Fundamentos de Python aplicados à segurança
-- Scripts de automação para análise de logs e redes
-- Ferramentas para análise de vulnerabilidades
-- Exercícios e desafios propostos em aula
-- Anotações e dicas sobre programação segura
+### Fundamentos Python
+- Sintaxe básica e estruturas de dados
+- Manipulação de arquivos e strings
+- Programação orientada a objetos
+- Tratamento de exceções
 
-## 🚀 Objetivo
+## 🚀 Tecnologias Utilizadas
 
-Consolidar o aprendizado de Python com foco em aplicações de Cybersecurity, desenvolvendo habilidades práticas para o mercado de trabalho.
+- **Python 3.x**
+- **Jupyter Notebook** - Para documentação e análise
+- **Bibliotecas:** requests, socket, hashlib, cryptography, scapy, pandas
+- **Ferramentas:** Git, GitHub
 
-## 🛠️ Tecnologias
 
-- Python 3.x
-- Bibliotecas de segurança e automação (ex: `os`, `socket`, `hashlib`, `requests`, etc.)
+## ⚠️ Aviso Legal
 
-## 📁 Organização
+Os scripts e ferramentas neste repositório são desenvolvidos exclusivamente para fins educacionais e de aprendizado. Use sempre de forma ética e responsável, respeitando as leis e regulamentações aplicáveis.
 
-O repositório está organizado por módulos ou temas, conforme o andamento do curso.
+## 🎓 Sobre o SENAI
 
----
+Este conteúdo faz parte do curso de Python para Cybersecurity oferecido pelo SENAI, focando na formação de profissionais qualificados para atuar na área de segurança da informação.
 
-> Este repositório é de uso educacional, acompanhando o conteúdo do curso SENAI. Sinta-se à vontade para explorar, sugerir melhorias ou utilizar como referência para seus próprios estudos!
+## 📞 Contato
+
+Desenvolvido durante o curso do SENAI - Python para Cybersecurity
